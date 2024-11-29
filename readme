@@ -1,0 +1,6 @@
+..so the code implement here is about sockets, how to devices are able to communicate with each other in a client-server model
+..message sending isn't dynamic as the messages sent, are hardcoded before being sent, find an implementation to send messages
+dynamically for both local and over the internet...
+..Server2 has proper functionality for sockets, apply more knowledge on server.py
+
+Redo the whole thing with your crazy implementations of dynamicism and see how far you can stretch the concepts you've just learned.
